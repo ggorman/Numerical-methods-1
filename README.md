@@ -1,9 +1,7 @@
-Introduction to programming for geoscientists
-=============================================
+Numerical Methods 1
+===================
 
-This course closely follows the text book ["A Primer on Scientific Programming with Python", by Hans Petter Langtangen](http://www.springer.com/mathematics/computational+science+%26+engineering/book/978-3-642-18365-2).
+This course closely follows the text book ["Numerical Methods in Engineering with Python 3" by Jaan Kiusalaas](http://www.cambridge.org/us/academic/subjects/engineering/engineering-mathematics-and-programming/numerical-methods-engineering-python-3-3rd-edition) and the [original course notes by David Ham](https://bitbucket.org/David_Ham/numerical_methods_1).
 
-An updated version of this course can always be found on the [github page](http://ggorman.github.io/Introduction-to-programming-for-geoscientists/)
+An updated version of this course can always be found on the [GitHub page](http://ggorman.github.io/Numerical-methods-1/)
 
-## License
-All the course material is licensed under a Creative Commons Attribution 3.0 Unported (CC BY 3.0)  (http://creativecommons.org/licenses/by/3.0/) and MIT License - http://opensource.org/licenses/mit-license.html. 

@@ -1,12 +1,11 @@
 ---
 layout: post
 title:  "Setting up IPython Notebook" 
-date:   2016-01-01 00:10:00
+date:   2016-01-18 00:00:00
 categories: Lecture notes
 ---
 
-The lecture is written in IPython Notebook format. You will quickly see that you can edit these notebooks yourself to add your own notes and do the exercises. You can view the first lecture's notebook directly using
-[nbviewer](http://nbviewer.ipython.org/github/ggorman/Numerical-methods-1/blob/master/notebook/Numerical-methods-1.ipynb) or [download the notebook here](http://raw.githubusercontent.com/ggorman/Numerical-methods-1/master/notebook/Numerical-methods-1.ipynb) (Note: you may need to right-click and use *Save Link As...*).
+The lecture is written in IPython Notebook format. You will quickly see that you can edit these notebooks yourself to add your own notes and do the exercises. You can view the first lecture's notebook directly using [nbviewer](http://nbviewer.ipython.org/github/ggorman/Numerical-methods-1/blob/master/notebook/interpolation.ipynb) or [download the notebook here](http://raw.githubusercontent.com/ggorman/Numerical-methods-1/master/notebook/interpolation.ipynb) (Note: you may need to right-click and use *Save Link As...*).
 
 ### Initial setup
 We recommend that you download the notebooks for the lecture and store them in the H: drive. 

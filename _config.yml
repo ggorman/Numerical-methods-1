@@ -12,15 +12,9 @@ email2: g.gorman@imperial.ac.uk
 github_username2:  ggorman
 twitter_username2: gerardjgorman
 
-name3: Christian Jacobs
-address3: Room 4.88, Royal School of Mines
-email3: c.jacobs10@imperial.ac.uk
-github_username3:  ctjacobs
-twitter_username3: ctjacobs_uk
-
 description: > # this means to ignore newlines until "baseurl:"
 
-  This is an introductory course on numerical methods, covering topics linear algebra, root finding, differentiation and quadrature (integration).
+This is an introductory course on numerical methods, covering topics linear algebra, root finding, differentiation and quadrature (integration).
 
 baseurl: http://ggorman.github.io/Numerical-methods-1
 production_url : http://ggorman.github.io/Numerical-methods-1

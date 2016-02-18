@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Lecture 4 with solutions: Differentiation" 
+title:  "Lecture 5 with solutions: Differentiation" 
 date:   2016-02-18 10:00:00
 categories: Lecture notes
 ---

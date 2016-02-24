@@ -17,7 +17,7 @@ permalink: /lecture_series/
 * Week 6 (22-Feb-2016): Numerical integration.
 [View lecture](http://nbviewer.ipython.org/url/raw.githubusercontent.com/ggorman/Numerical-methods-1/master/notebook/integration.ipynb)
 * Week 7 (29-Feb-2016): Roots of equations.
-[View lecture](http://nbviewer.ipython.org/url/raw.githubusercontent.com/ggorman/Numerical-methods-1/master/notebook/root_finding.ipynb)
+[View lecture](http://nbviewer.ipython.org/url/raw.githubusercontent.com/ggorman/Numerical-methods-1/master/notebook/roots_of_equations.ipynb)
 * Week 8 (07-Mar-2016): Revision exercises
 
 

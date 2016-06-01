@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Class assessment 2016" 
-date:   2016-06-01 09:00:00
+date:   2016-06-01 00:00:00
 categories: Lecture notes
 ---
 

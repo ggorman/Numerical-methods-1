@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Setting up IPython Notebook" 
-date:   2016-01-18 14:00:00
+date:   2017-01-16 14:00:00
 categories: Lecture notes
 ---
 

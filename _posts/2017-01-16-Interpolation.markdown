@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Lecture 1: Interpolation" 
-date:   2017-01-16 14:00:00
+date:   2017-01-16 14:01:00
 categories: Lecture notes
 ---
 

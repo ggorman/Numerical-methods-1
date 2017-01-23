@@ -5,8 +5,10 @@ date:   2017-01-16 14:01:00
 categories: Lecture notes
 ---
 
-View directly using [nbviewer](http://nbviewer.jupyter.org/url/taupalosaurus.notk.org/imperialCollege/tests_gh/interpolation%20solutions.ipynb)
+[View and download notebook](http://nbviewer.jupyter.org/github/ggorman/Numerical-methods-1/blob/master/notebook/interpolation.ipynb)
 
-[Download the notebook here](http://raw.githubusercontent.com/ggorman/Numerical-methods-1/master/notebook/interpolation%2Bsolutions.ipynb) (Note: you may need to right-click and use *Save Link As...*).
+[View and download solutions](http://nbviewer.jupyter.org/github/ggorman/Numerical-methods-1/master/notebook/interpolation%2Bsolutions.ipynb)
 
 [Link to whiteboard photo](http://taupalosaurus.notk.org/imperialCollege/NM1/20170116_160906.jpg)
+
+Note: you may need to right-click and use *Save Link As...*.

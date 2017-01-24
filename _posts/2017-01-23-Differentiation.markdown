@@ -7,5 +7,5 @@ categories: Lecture notes
 
 [View and download notebook](http://nbviewer.jupyter.org/github/ggorman/Numerical-methods-1/blob/master/notebook/differentiation.ipynb)
 
-Note: Depending on your choice of browser, you may need to right-click and use *Save Link As...*.
+[View and download notebook with solutions](http://nbviewer.jupyter.org/github/ggorman/Numerical-methods-1/blob/master/notebook/differentiation_solutions.ipynb)
 

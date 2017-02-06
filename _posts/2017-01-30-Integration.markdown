@@ -7,3 +7,6 @@ categories: Lecture notes
 
 [View and download notebook](http://nbviewer.ipython.org/github/ggorman/Numerical-methods-1/blob/master/notebook/integration.ipynb)
 
+[View and download notebook and solutions](http://nbviewer.ipython.org/github/ggorman/Numerical-methods-1/blob/master/notebook/integration_solutions.ipynb)
+
+

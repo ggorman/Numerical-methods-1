@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Lecture 4: Roots of equations" 
+date:   2017-02-06 14:00:00
+categories: Lecture notes
+---
+
+[View and download notebook](http://nbviewer.ipython.org/github/ggorman/Numerical-methods-1/blob/master/notebook/roots_of_equations.ipynb)
+

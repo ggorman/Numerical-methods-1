@@ -7,3 +7,4 @@ categories: Lecture notes
 
 [View and download notebook](http://nbviewer.ipython.org/github/ggorman/Numerical-methods-1/blob/master/notebook/roots_of_equations.ipynb)
 
+[View and download solutions](http://nbviewer.ipython.org/github/ggorman/Numerical-methods-1/blob/master/notebook/roots_of_equations_solutions.ipynb)

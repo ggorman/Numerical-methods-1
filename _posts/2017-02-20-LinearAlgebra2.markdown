@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Lecture 6: Linear Algebra 2" 
-date:   2017-03-20 14:00:00
+date:   2017-02-20 14:00:00
 categories: Lecture notes
 ---
 

@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Revisions: past exam" 
+date:   2017-03-06 14:00:00
+categories: Lecture notes
+---
+
+[View and download notebook](http://nbviewer.jupyter.org/github/ggorman/Numerical-methods-1/blob/master/notebook/exam_2016.ipynb)
+

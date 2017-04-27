@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Revisions: past exam" 
-date:   2017-03-06 14:00:00
+title:  "Revisions exercises" 
+date:   2017-04-05 14:00:00
 categories: Lecture notes
 ---
 

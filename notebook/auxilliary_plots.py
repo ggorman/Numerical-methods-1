@@ -19,7 +19,7 @@ def picard_convergence_pattern(fct, x, max_labels=6, tol=1.0E-4, flabel=''):
     fp_p = []
     h_p = []
     while 1:
-        print 'x_{0:0>2d} = {1:7.5f}'.format(len(h_p), x)
+        print('x_{0:0>2d} = {1:7.5f}'.format(len(h_p), x))
         h_p.append(x)
         x = fct(x)
         fp_p.append(x)

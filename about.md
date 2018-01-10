@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-This is a 1<sup>st</sup> year undergraduate course for geoscientists taught by [Gerard Gorman](http://www.imperial.ac.uk/people/g.gorman) and [Matthew Piggott](http://www.imperial.ac.uk/people/m.d.piggott). It is designed to be a first introduction to numerical methods. The [Introduction to Programming for Geoscientists course](http://ggorman.github.io/Introduction-to-programming-for-geoscientists/) is a prerequisite to taking this course. You can always click on the [lecture series](http://ggorman.github.io/Numerical-methods-1/lecture_series/) to get a complete overview of the topics covered and lecture schedule.
+This is a 1<sup>st</sup> year undergraduate course for geoscientists taught by [Gerard Gorman](http://www.imperial.ac.uk/people/g.gorman), [Matthew Piggott](http://www.imperial.ac.uk/people/m.d.piggott) and [Nicolas Barral](http://www.imperial.ac.uk/people/n.barral). It is designed to be a first introduction to numerical methods. The [Introduction to Programming for Geoscientists course](http://ggorman.github.io/Introduction-to-programming-for-geoscientists/) is a prerequisite to taking this course. You can always click on the [lecture series](http://ggorman.github.io/Numerical-methods-1/lecture_series/) to get a complete overview of the topics covered and lecture schedule.
 
 You will learn numerical methods by **doing**. Each lecture will cover:
 

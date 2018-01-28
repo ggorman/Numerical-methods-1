@@ -7,5 +7,6 @@ categories: Lecture notes
 
 [Link to notebook](https://notebooks.azure.com/nbarral/libraries/nm1-2)
 
-[Extra exercises](https://notebooks.azure.com/nbarral/libraries/nm1-2e)
+[Link to solutions](https://notebooks.azure.com/nbarral/libraries/nm1-2s)
 
+[Extra exercises](https://notebooks.azure.com/nbarral/libraries/nm1-2e)

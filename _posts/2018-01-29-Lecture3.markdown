@@ -7,3 +7,4 @@ categories: Lecture notes
 
 [Link to notebook](https://notebooks.azure.com/nbarral/libraries/nm1-3)
 
+[Link to notebook](https://notebooks.azure.com/nbarral/libraries/nm1-3s)

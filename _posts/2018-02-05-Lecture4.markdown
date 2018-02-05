@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "Lecture 4"
+date:   2018-02-05 14:00:00
+categories: Lecture notes
+---
+
+[Link to notebook](https://notebooks.azure.com/nbarral/libraries/nm1-4)

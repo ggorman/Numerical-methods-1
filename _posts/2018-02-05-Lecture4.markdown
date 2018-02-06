@@ -6,3 +6,5 @@ categories: Lecture notes
 ---
 
 [Link to notebook](https://notebooks.azure.com/nbarral/libraries/nm1-4)
+
+[Link to solutions](https://notebooks.azure.com/nbarral/libraries/nm1-4s)

@@ -6,3 +6,6 @@ categories: Lecture notes
 ---
 
 [Link to notebook](https://notebooks.azure.com/nbarral/libraries/nm1-6)
+
+
+[Extra exercises](https://notebooks.azure.com/nbarral/libraries/nm1-7e)

@@ -1,0 +1,11 @@
+---
+layout: post
+title:  "Lecture 7"
+date:   2018-02-26 14:00:00
+categories: Lecture notes
+---
+
+[Link to notebook](https://notebooks.azure.com/nbarral/libraries/nm1-7)
+
+
+[Extra exercises](https://notebooks.azure.com/nbarral/libraries/nm1-7e)

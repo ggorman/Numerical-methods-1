@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Exam 2016"
+date:   2018-03-12 14:00:00
+categories: Lecture notes
+---
+
+[Link to notebook](https://notebooks.azure.com/nbarral/libraries/nm1-exam16)
+

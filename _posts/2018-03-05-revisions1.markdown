@@ -7,4 +7,4 @@ categories: Lecture notes
 
 [Link to notebook](https://notebooks.azure.com/nbarral/libraries/nm1-exam17)
 
-[Link to notebook](https://notebooks.azure.com/nbarral/libraries/nm1-exam17s)
+[Link to solutions](https://notebooks.azure.com/nbarral/libraries/nm1-exam17s)

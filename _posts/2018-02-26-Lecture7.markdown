@@ -10,3 +10,5 @@ categories: Lecture notes
 [Link to solutions](https://notebooks.azure.com/nbarral/libraries/nm1-7s)
 
 [Extra exercises](https://notebooks.azure.com/nbarral/libraries/nm1-7e)
+
+[Solutions to extra exercises](https://notebooks.azure.com/nbarral/libraries/nm1-7es)

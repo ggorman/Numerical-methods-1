@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "Exam 2018"
+date:   2018-05-04 14:00:00
+categories: Lecture notes
+---
+
+The library below will be made public at 14:00.
+
+[Link to notebook](https://notebooks.azure.com/nbarral/libraries/nm1-exam2018)
